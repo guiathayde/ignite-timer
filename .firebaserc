@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "guiathayde-dev"
+  },
+  "targets": {
+    "guiathayde-dev": {
+      "hosting": {
+        "ignite-timer-vite": [
+          "ignite-timer-vite"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
